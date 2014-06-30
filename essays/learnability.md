@@ -14,6 +14,8 @@ If you've heard of metadata, metainformation is essentially the same concept.  I
 
 Some of these metainformation structures have been explicitly constucted, the most famous example probably being HTML and the internet, which Tim Berners-Lee designed to promote sharing ideas.  The truth is, every _system of documents_ has a metainformation structure, although sometimes it is implicit.  For example, I can safely assert that nobody intentionally pioneered the structure of novels for a particular purpose, they arose organically. The metainformation structure that links novels has almost no explicit references between novels, and thus allows for a very self-contained experience.  However, there are series books, and some novels allude to previous ones which may have been written many years before.  The point is, *all systems of documents have metainformation structures*.
 
+---
+
 When you're searching the internet, or scientific paper archives, or any other store of information, you are always navigation a constructed metainformation structure.  This specifies the relationships between different documents within the genre.  Some information structures are created implicitly, without any design, like intertext allusions in novels.  Another metainformation structure is the web of references in scientific papers.
 
 Different metainformation structures make some things easy and some things difficult.  For example, the structure of the web of scientific papers makes it easy for experts to quickly and concisely learn about new discoveries.  Papers are explicitly connected by *citations*, which invoke the results of a previous paper.  If the reader needs a refresher, or simply hasn't seen the referred paper, she can look up the cited paper to bring herself up to speed.  Papers which are cited often are considered more important, since they _demonstrably_ reach conclusions which further papers elaborate on.  Furthermore, once a scientist has seen many papers, she will be able to know a large amount about a paper without even reading it, just by seeing which papers it cites.
@@ -33,6 +35,8 @@ So far, we have talked about three metastructures:
  * Scientific papers
     * make it easy to share new results to experts 
     * makes it hard for beginners to learn.
+
+---
 
 Now let's talk about a fourth, and this will segue in to talking about designing a metastructure to encourage learning.
 
@@ -89,7 +93,19 @@ The metainformation structure should admit learning in all fields of study, incl
 
 The metainformation structure should minimize the barrier to entry for creators. Not everyone can write several textbook chapters, problems, as well as dealing with publishers.  This should not be a barrier in a system optimized for learning.  If you can write a chapter, make a diagram, write another problem, anything, you should be able to make a contribution to the information system.  Open-source would be extremely helpful for achieving this goal.  We have to remeber that the writers and the learners are the same people, and writing can solitidfy knowlege and make the learning even more effective.
 
-We've discussed the characteristics of an information system with a metastructure optimized for learning.  Now I would like to offer a proposal for such a metastructre, and discuss its advantages and disadvantages.
+---
+
+We've discussed the characteristics of an information system with a metastructure optimized for learning.  Now I would like to offer a proposal for such a metastructre, which I'll call **linked-modules**, and discuss its advantages and disadvantages.
+
+Here's an idea.  Imagine if you could break up textbooks into much smaller modules, each of which built on each other. Each module would propose an idea which builds on its dependencies and adds to them.  The module would contain its own exercises which learners could complete to assure that they have mastered the idea in the module.  Since each module explicitly lists the modules it presupposes that you have completed, it would be easy to select a module, and know exactly what you need to learn in order to do it.
+
+For an example I'd like to chose something that is not typcally handled by many textbooks: machine shop skills, in order to demonstrate the exensibility of the linked-modules system.  A module designed around learning how to use a lathe would presuppose that one would have already completed modules about power drills, since they're needed in order to attach a piece to a lathe.  The course would already presuppose that you have taken general safety training, and perhaps some other hand tools.  The course wouldn't have dependencies more than necessary, however.  If the module about drill presses depended on the safety and hand tools requirements, then so would the module about lathes, even if it solely lists the drill press module as a prerequisite.
+
+The lathe module would contain videos demonstrating the lathe's features, as well as videos, text, and diagrams detailing how to make various objects out of a lathe.  The exercises would be prompts to make specific parts on the lathe, with levels of detail ranging from "be creative!" to an extensive set of technical drawings.
+
+However, a learner might not be familiar with the format the technical drawings are written in.  If the course features the technical drawing module as a dependency, then it is free to assume familiarity with the technical drawings.  However, since all of these modules are open-source, another writer could fork the module and work on her own branch.  She would rephrase the technical drawings in english, which might be cumbersome.  However, the new module wouldn't list the technical drawing module as a dependency.  The learner is now faced with a choice: learn a technical drawing module, as well as lathe module with technical drawing, and gain an additional skill(technical drawing) which makes your main skill(lathes) easier to communicate about.  Or, skip that and learn a simplified version, which focuses exclusively on the lathes and not on the notation.  These modules teach the same skill, so they are called *equivalent modules*.
+
+
 
 
 
