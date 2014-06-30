@@ -18,4 +18,6 @@ When you're searching the internet, or scientific paper archives, or any other s
 
 Different metainformation structures make some things easy and some things difficult.  For example, the structure of the web of scientific papers makes it easy for experts to quickly and concisely learn about new discoveries.  Papers are explicitly connected by *citations*, which invoke the results of a previous paper.  If the reader needs a refresher, or simply hasn't seen the referred paper, she can look up the cited paper to bring herself up to speed.  Papers which are cited often are considered more important, since they _demonstrably_ reach conclusions which further papers elaborate on.  Furthermore, once a scientist has seen many papers, she will be able to know a large amount about a paper without even reading it, just by seeing which papers it cites.
 
-Simultaneously, the specifics of 
+Simultaneously, the specific structure of scientific papers discourages learning from scratch.  I can't think of anybody who has given themselves a decent education solely by reading papers, it simply can't be done.  That's because papers presuppose that the reader is an expert informed on current research.  This makes papers much shorter and easier to write by limiting the amount of established information that the writer needs to provide before presenting their results, but restricts the audience to those familiar with the topic.
+
+
