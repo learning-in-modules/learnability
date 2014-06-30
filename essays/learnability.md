@@ -131,6 +131,8 @@ What does the linked-modules method optimize for and against as an information s
     * makes it easy to find out what to learn next, and gives small, manageable chunks, as well as givin amateurs ideas about where to start
     * makes it difficult to share cutting-edge information, or structure long, planned stretches of learning
 
+---
 
+I would like to end with a word of caution.  As soon as two similar works exist, there is a metainformation structure defining the relationship between them.  By thinking about this metastructure we can make it easier or harder for various audiences to use the work for various purposes.  What is hard in a given system is trivial in another.  However, we need to commit to making a conscious choice to design our metainformation systems to facilitate learning, which is inherently disruptive.  This may be difficult, but it replaces an environment where our main methods of learning serve to strengthen entrenched and antiquated ideas about learning so popular in universities today.  If we do not structure our information, our information will structure us.  There is no avoiding the impact of information structuring and we might as well make it do good.  Thank you.
 
 
