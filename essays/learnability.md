@@ -25,7 +25,13 @@ But does the metainformation structure connect the documents in such a way that 
 So far, we have talked about three metastructures:
 
  * The web
- * * makes aimless browsing easy
- * * discouraging long content through midstory links
- * Novels, which compartmentalize stories while discouraging shorter content
- * Scientific papers, which make it easy to share new results to experts while making it hard for beginners to learn.
+    * makes aimless browsing and headline journalism easy
+    * discouraging long content through midstory links
+ * Novels 
+    * makes it easy to write longer stories with structured plots
+    * makes it difficult to write shorter stories
+ * Scientific papers
+    * make it easy to share new results to experts 
+    * makes it hard for beginners to learn.
+
+Now let's talk about a fourth, and this will segue in to talking about designing a metastructure to encourage learning.
