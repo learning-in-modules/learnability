@@ -35,3 +35,12 @@ So far, we have talked about three metastructures:
     * makes it hard for beginners to learn.
 
 Now let's talk about a fourth, and this will segue in to talking about designing a metastructure to encourage learning.
+
+Right after the printing press was invented, many mass-produced textbooks became available.  Previous textbooks were handwritten manuscripts, which were prohibitively expensive for all but the very rich.  But what they all had in common was the purpose to help the reader to learn.  Textbooks typically contained exercises, which often consisted of memorizing passages in earlier works, although the modern idea of practice problems designed to teach skills developed slowly over time. The author of a textbook had an idea of where the reader should be before reading the textbook, and hope for the state that the reader should be in after having learned the material contained within.
+
+
+
+
+
+
+
