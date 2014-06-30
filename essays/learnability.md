@@ -20,4 +20,12 @@ Different metainformation structures make some things easy and some things diffi
 
 Simultaneously, the specific structure of scientific papers discourages learning from scratch.  I can't think of anybody who has given themselves a decent education solely by reading papers, it simply can't be done.  That's because papers presuppose that the reader is an expert informed on current research.  This makes papers much shorter and easier to write by limiting the amount of established information that the writer needs to provide before presenting their results, but restricts the audience to those familiar with the topic.
 
+But does the metainformation structure connect the documents in such a way that even if the information a reader needs to understand a paper isn't referred to in the paper itself, it is easy to find that information?  Unfortunately not. Most of the time, information that the author considers basic isn't cited, leaving a beginner high and dry, unable to understand what is written and unable to find the material needed to understand it.  And since the metainformation structure is designed to help experts share ideas, the curious beginner is left high and dry.
 
+So far, we have talked about three metastructures:
+
+ * The web
+ * * makes aimless browsing easy
+ * * discouraging long content through midstory links
+ * Novels, which compartmentalize stories while discouraging shorter content
+ * Scientific papers, which make it easy to share new results to experts while making it hard for beginners to learn.
