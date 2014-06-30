@@ -105,8 +105,31 @@ The lathe module would contain videos demonstrating the lathe's features, as wel
 
 However, a learner might not be familiar with the format the technical drawings are written in.  If the course features the technical drawing module as a dependency, then it is free to assume familiarity with the technical drawings.  However, since all of these modules are open-source, another writer could fork the module and work on her own branch.  She would rephrase the technical drawings in english, which might be cumbersome.  However, the new module wouldn't list the technical drawing module as a dependency.  The learner is now faced with a choice: learn a technical drawing module, as well as lathe module with technical drawing, and gain an additional skill(technical drawing) which makes your main skill(lathes) easier to communicate about.  Or, skip that and learn a simplified version, which focuses exclusively on the lathes and not on the notation.  These modules teach the same skill, so they are called *equivalent modules*.
 
+The idea of equivalent modules generalizes to many situations in which equivalent information is presented.  Further courses in lathes should list only as a dependency one lathes course, then specify that they also consider all courses equivalent too it. If that specific course requires the technical drawing notation, then it should list that as a seperate dependency, in order to keep skills atomic.
 
+Equivalent moduels could also be used for translation.  Each module could have mirrors in every language, which say almost the same thing.  These modules would be relatively easy to maintain and would only require the inital work of translation to create, but would make huge improvements for people struggling to learn english while struggling to learn things in english.
 
+As a sidenote programming problems could also be offered in different modules this way, which will avoid many a flamewar.
+
+The linked-modules will all be collected in a **dynamic textbook** which will contain every linked module and provide the user with this information, and suggest new courses to take, as well as giving a summary of state and recommending random courses, or exercises to keep skills sharp.  The dynamic textbook is designed to get out of the way and connect learners with the information that they want to learn.
+
+What does the linked-modules method optimize for and against as an information system?  It seems to be a good method for learning from scratch, as well as self-studying.  However, it would be extremely difficult to teach a large class in an ordered way using this method, since each individual student would move through at her own pace.  It would also be difficult to guide a student through a long sequence of courses, since there are many equivalent variants.  Finally the linked-modules focus on brancing might encourage fragmentaiton, and it might be difficult to make creating modules the norm among the population.  The large emphasis on learning and dependencies might prove cumbersome for a researcher seeking to share the latest discoveries.
+
+* The web
+    * makes aimless browsing and headline journalism easy
+    * discouraging long content through midstory links
+ * Novels 
+    * makes it easy to write longer stories with structured plots
+    * makes it difficult to write shorter stories
+ * Scientific papers
+    * makes it easy to share new results to experts 
+    * makes it hard for beginners to learn.
+ * Textbooks and MOOCs
+    * makes it easy to design a class around the textbook
+    * makes it difficult to learn small chunks, or find out where to find information
+ * Linked-Modules
+    * makes it easy to find out what to learn next, and gives small, manageable chunks, as well as givin amateurs ideas about where to start
+    * makes it difficult to share cutting-edge information, or structure long, planned stretches of learning
 
 
 
