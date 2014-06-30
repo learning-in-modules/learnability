@@ -44,7 +44,28 @@ Most textbooks have introductions which describe what level the textbook is writ
 
 Textbooks' resistance to splitting, single-minded focus, and vague ties to other textbooks might come from the audience most likely to influence textbook writing: university professors designing courses around textbooks.  A university course exists within a system designed to advise students about what courses they should do next, so a professor writing a textbook might reason that that information is superfluous, since any learner could just visit their advisor, not realizing that some want to learn outside of the system of higher education, for fun or profit.  A single-minded focus makes sense for a university course focused on a single topic, while a resistance to splitting also makes sense, since most of the time, the textbook is designed to be taught in a single course.
 
+So we can update our list of what metasinformation tructures within document systems encourage:
 
+* The web
+    * makes aimless browsing and headline journalism easy
+    * discouraging long content through midstory links
+ * Novels 
+    * makes it easy to write longer stories with structured plots
+    * makes it difficult to write shorter stories
+ * Scientific papers
+    * makes it easy to share new results to experts 
+    * makes it hard for beginners to learn.
+ * Textbooks
+    * makes it easy to design a class around the textbook
+    * makes it difficult to learn small chunks, or find out where to find information
+
+What do MOOCs do?  MOOCs advertise the college experience online.  They are Massively Open Online **COURSES**.  They resist being broken up into small units, just like textbooks, since they are fundamentally wedded to the idea of the semester-long college course.  They borrow the ideas of homework and final exams, even offering credentials in some cases.  They seem to fail in much the way college courses do at delivering a more discrete, modular approach to learning. 
+
+Some evidence for the demand for smaller chunks of learning comes from the notoriously high dropout rate among MOOC students.  [This paper](http://lytics.stanford.edu/datadriveneducation/papers/yangetal.pdf) describes the dropouts rate from an online Bioelectricity course run by Duke University. ~12,000 people registered, only ~7,000 watched a video, ~3,500 took one quiz, and only ~300 passed the final exam.  **96 percent** of the people who watched the first lecture did not complete the course, but **50%** took at least one quiz.  The authors of the paper studied the effects of social network effects, but I would like to propose a much simpler explanation:
+
+People want smaller chunks of learning to consume individually without committing to a longer course.
+
+Since MOOC's seem to compound the inherent metastructural issues, 
 
 
 
