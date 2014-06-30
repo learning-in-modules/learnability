@@ -66,7 +66,32 @@ Some evidence for the demand for smaller chunks of learning comes from the notor
 
 People want smaller chunks of learning to consume individually without committing to a longer course.
 
-Since MOOC's seem to compound the inherent metastructural issues, I won't add them to our metainformation structures paragraph.
+Since MOOC's seem to compound the inherent metastructural issues, I won't add them to our metainformation structures paragraph, and instead just list them under textbooks.
+
+* The web
+    * makes aimless browsing and headline journalism easy
+    * discouraging long content through midstory links
+ * Novels 
+    * makes it easy to write longer stories with structured plots
+    * makes it difficult to write shorter stories
+ * Scientific papers
+    * makes it easy to share new results to experts 
+    * makes it hard for beginners to learn.
+ * Textbooks and MOOCs
+    * makes it easy to design a class around the textbook
+    * makes it difficult to learn small chunks, or find out where to find information
+
+We want to consciously create a metastructure that we can optimize for learnability.  What characteristics does it have?
+
+There should be a low barrier to entry. As soon as one discovers the information system, it should be immediately apparent where to go next.  Starting should not be difficult for people with *any* background, and it should be clear where to find prerequisite information, as well as to tell where they can use this piece of knowledge to learn more.
+
+The metainformation structure should admit learning in all fields of study, including the sciences, the humanities, the fine arts, and vocational training.  It should be versatile enough to admit many different fields with many distinct learning styles, while still bringing an edge to it.  
+
+The metainformation structure should minimize the barrier to entry for creators. Not everyone can write several textbook chapters, problems, as well as dealing with publishers.  This should not be a barrier in a system optimized for learning.  If you can write a chapter, make a diagram, write another problem, anything, you should be able to make a contribution to the information system.  Open-source would be extremely helpful for achieving this goal.  We have to remeber that the writers and the learners are the same people, and writing can solitidfy knowlege and make the learning even more effective.
+
+We've discussed the characteristics of an information system with a metastructure optimized for learning.  Now I would like to offer a proposal for such a metastructre, and discuss its advantages and disadvantages.
+
+
 
 
 
