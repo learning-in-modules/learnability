@@ -10,17 +10,26 @@ Learnability and the Dynamic Textbook
  * These are collections of similar documents
  * They all have links connecting individual works into **networks of information**
  * How are these links implemented?
-
- 
- | Wikipedia         | Clickable link with page title |
- | BuzzFeed          | Clickbait Link                 |
- | YA series         | Teaser Chapter from next book  |
- | Scientific Papers | Citations listing authors      |
- 
-
- * What do different linking techniques do?
-   * Influence your expectations for a new work
-   * Encourage linear or nonlinear reading
+   * Wikipedia
+     * Clickable link with page title ("List of Animorphs Books")
+   * BuzzFeed
+     * ClickBait link ("10 Animorphs plotlines YOU WOULD NOT BELIEVE ARE REAL")
+   * YA Series
+     * Teaser Chapter ("Keep Reading for a teaser chapter from the next Animorphs")
+   * Scientific Paper
+     * Citation ("J. Stine, A. Horowitz, et. al. A Feasability Study for Human-Animal Transition, Pseudoscience, May 2009")
+ * How do different linking techniques influence readers?
+   * Expectations
+     * Writing Style
+     * Authors and Prestige
+   * Ordering
+     * Sequential
+     * Referential
+   * Behavior
+     * Links at end
+       * Encourages reading many documents in sequence
+     * Links throughout document
+       * Encourages referencing links to learn background knowledge
 
 
 The way information is organized has a tremendous impact on the way it is interpreted. The context of how you discover a document may determine your reaction even more than the document itself. Going along with that, different ways of organizing documents produce different reactions, and make different things easy and hard. For example, the web |makes it easy to hop between different web pages, but it makes it hard to create long-form writing, encouraging a more serial style.  The novel does the opposite, enabling long, uninterrupted passages.  Scientific papers make a web of verifiability while allowing experts to remain abreast of the latest developments, at the cost of making it extremely difficult to learn directly from reading scientific papers.
