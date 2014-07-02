@@ -42,8 +42,45 @@ Learnability and the Dynamic Textbook
        * Encourages reading many documents in sequence
      * Links throughout document
        * Encourages referencing links to learn background knowledge
- * How do different linking
-
+ * How do different linking techniques influence writers?
+   * Can you embed links?
+     * Series Books
+       * No - books are made of dead tree
+       * Writers assume readers will read entire book
+       * Writers assume readers just read the last book
+       * Enables plot structuring over an entire series
+     * BuzzFeed
+       * No - Might add external links but no links to other BuzzFeed articles go inline
+       * Writers are trying to get readers to read entire article
+     * Wikipedia
+       * Yes
+       * By embedding links you can assume more knowledge in your reader and refer them to other articles
+       * Must assume other readers came to article from a link
+       * Articles must have high-level summaries, then sections for more specific details
+     * Scientific Papers
+       * Yes - footnotes
+       * Lets you assume an expert level of knowledge in the reader
+       * Footnote assumes you understand that entire paper
+       * Papers cannot be broken up into smaller pieces because of this assumption
+   * What do your links look like?
+     * BuzzFeed links try to get you to read the article
+     * Wikipedia links give you an idea of what the article is about
+     * Series Book links give you an idea of where the next book starts
+     * Paper footnotes tell you the authors of a study, where they worked, and what journal it was published in.
+   * How do you expect readers to find your work?
+     * Series Books have serial links
+       * expect you to have read the last book
+       * enable long and complicated plotlines
+     * Wikipedia articles have embedded links
+       * expect you to come to an article to refer for information about another article
+       * force articles to give a high-level overview and then branch into specifics later
+     * BuzzFeed articles have links at the end of an article
+       * no expectations for reader
+       * force writing to be accessible and entertaining
+     * Scientific Papers have embedded footnotes
+       * expect you to be referring to this paper because another paper presupposes the knowledge in this paper
+       * prevents papers from being broken up into pieces
+       * 
 
 The way information is organized has a tremendous impact on the way it is interpreted. The context of how you discover a document may determine your reaction even more than the document itself. Going along with that, different ways of organizing documents produce different reactions, and make different things easy and hard. For example, the web |makes it easy to hop between different web pages, but it makes it hard to create long-form writing, encouraging a more serial style.  The novel does the opposite, enabling long, uninterrupted passages.  Scientific papers make a web of verifiability while allowing experts to remain abreast of the latest developments, at the cost of making it extremely difficult to learn directly from reading scientific papers.
 
