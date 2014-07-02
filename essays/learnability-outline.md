@@ -9,7 +9,19 @@ Learnability and the Dynamic Textbook
    * Reading scientific papers
  * These are collections of similar documents
  * They all have links connecting individual works into **networks of information**
- * How are these links implemented?
+   * Different Characteristics
+   * Different goals
+     * Factual Reference
+     * Bite-sized entertainment
+     * Serial entertainment
+     * Sharing information among experts
+     * Learning new information (Needs Work)
+ * Overview of talk
+   * How do various systems of documents link themselves together?
+   * How do different linking styles influence readers?
+   * How do different linking styles influence writers?
+   * 
+ * How do systems of documents link themselves together?
    * Wikipedia
      * Clickable link with page title ("List of Animorphs Books")
    * BuzzFeed
@@ -30,6 +42,7 @@ Learnability and the Dynamic Textbook
        * Encourages reading many documents in sequence
      * Links throughout document
        * Encourages referencing links to learn background knowledge
+ * How do different linking
 
 
 The way information is organized has a tremendous impact on the way it is interpreted. The context of how you discover a document may determine your reaction even more than the document itself. Going along with that, different ways of organizing documents produce different reactions, and make different things easy and hard. For example, the web |makes it easy to hop between different web pages, but it makes it hard to create long-form writing, encouraging a more serial style.  The novel does the opposite, enabling long, uninterrupted passages.  Scientific papers make a web of verifiability while allowing experts to remain abreast of the latest developments, at the cost of making it extremely difficult to learn directly from reading scientific papers.
