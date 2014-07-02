@@ -20,7 +20,9 @@ Learnability and the Dynamic Textbook
    * How do various systems of documents link themselves together?
    * How do different linking styles influence readers?
    * How do different linking styles influence writers?
-   * 
+   * What do linking styles make easy or hard?
+   * What linking style would encourage learning?
+   * How to implement that linking style in a _dynamic textbook_
  * How do systems of documents link themselves together?
    * Wikipedia
      * Clickable link with page title ("List of Animorphs Books")
@@ -32,41 +34,25 @@ Learnability and the Dynamic Textbook
      * Citation ("J. Stine, A. Horowitz, et. al. A Feasability Study for Human-Animal Transition, Pseudoscience, May 2009")
  * How do different linking techniques influence readers?
    * Expectations
-     * Writing Style
-     * Authors and Prestige
+     * BuzzFeed links tell you what kind of cheap entertainment you're getting
+     * Wikipedia links tell you what the article is about
+     * Series books tell you where the next plot will start
+     * Paper footnotes tell you the authors of a study, where they worked, and what journal it was published in.
    * Ordering
-     * Sequential
-     * Referential
+     * Is this the next __ in the story?
+     * Is this an unrelated article similar to this one?
+     * Is this an article that explains a concept this article presupposes that you know?
    * Behavior
      * Links at end
        * Encourages reading many documents in sequence
      * Links throughout document
        * Encourages referencing links to learn background knowledge
  * How do different linking techniques influence writers?
-   * Can you embed links?
-     * Series Books
-       * No - books are made of dead tree
-       * Writers assume readers will read entire book
-       * Writers assume readers just read the last book
-       * Enables plot structuring over an entire series
-     * BuzzFeed
-       * No - Might add external links but no links to other BuzzFeed articles go inline
-       * Writers are trying to get readers to read entire article
-     * Wikipedia
-       * Yes
-       * By embedding links you can assume more knowledge in your reader and refer them to other articles
-       * Must assume other readers came to article from a link
-       * Articles must have high-level summaries, then sections for more specific details
-     * Scientific Papers
-       * Yes - footnotes
-       * Lets you assume an expert level of knowledge in the reader
-       * Footnote assumes you understand that entire paper
-       * Papers cannot be broken up into smaller pieces because of this assumption
    * What do your links look like?
-     * BuzzFeed links try to get you to read the article
-     * Wikipedia links give you an idea of what the article is about
-     * Series Book links give you an idea of where the next book starts
-     * Paper footnotes tell you the authors of a study, where they worked, and what journal it was published in.
+     * You write BuzzFeed links to get readers to click on them
+     * You write Wikipedia links to refer readers to a relevant article
+     * You write series book links to try to get readers to continue the story
+     * You write scientific paper links to show readers the level of knowledge you expect them to have.
    * How do you expect readers to find your work?
      * Series Books have serial links
        * expect you to have read the last book
@@ -80,24 +66,9 @@ Learnability and the Dynamic Textbook
      * Scientific Papers have embedded footnotes
        * expect you to be referring to this paper because another paper presupposes the knowledge in this paper
        * prevents papers from being broken up into pieces
-       * 
+ * 
 
-The way information is organized has a tremendous impact on the way it is interpreted. The context of how you discover a document may determine your reaction even more than the document itself. Going along with that, different ways of organizing documents produce different reactions, and make different things easy and hard. For example, the web |makes it easy to hop between different web pages, but it makes it hard to create long-form writing, encouraging a more serial style.  The novel does the opposite, enabling long, uninterrupted passages.  Scientific papers make a web of verifiability while allowing experts to remain abreast of the latest developments, at the cost of making it extremely difficult to learn directly from reading scientific papers.
 
-So here's a rough outline of my talk.  First, I'm going to talk about the _metainformation structure_ of a system of documents.  Metainformation is information about how a document relates to other documents. I'm going to discuss how different metainformation structures make different things easy or hard.  Then, I'm going to describe what qualities a metainformation structure optimizing for learnability has.  Finally, I'm going to propose a metainformation structure that offers authors more resources to write learnably by connecting their work with other similiarly-written documents.
-
- * What is a metainformation strucutre?
- * What behaviors do different metainformation structures encourage?
- * What qualities does a metainformation structure optimized for learning have?
- * A proposal for "linked modules" as a learnable metainformation structure
-
-If you've heard of metadata, metainformation is essentially the same concept.  It doesn't have anything to do with the actual content of a piece of writing, it just contains information about how this piece of writing is related to other pieces of writing.  Hyperlinks and Footnotes are examples of a metainformation structure, creating connections between documents without adding any content.  Most documents which are connected by metainformation links are of the same genre.  Scientific papers cite other scientific papers.  Websites link to other websites.  Novels assume knowledge of other novels when they make allusions.  The system of documents also specifies a specific form to the document.
-
-Some of these metainformation structures have been explicitly constucted, the most famous example probably being HTML and the internet, which Tim Berners-Lee designed to promote sharing ideas.  The truth is, every _system of documents_ has a metainformation structure, although sometimes it is implicit.  For example, I can safely assert that nobody intentionally pioneered the structure of novels for a particular purpose, they arose organically. The metainformation structure that links novels has almost no explicit references between novels, and thus allows for a very self-contained experience.  However, there are series books, and some novels allude to previous ones which may have been written many years before.  The point is, *all systems of documents have metainformation structures*.
-
----
-
-When you're searching the internet, or scientific paper archives, or any other store of information, you are always navigation a constructed metainformation structure.  This specifies the relationships between different documents within the genre.  Some information structures are created implicitly, without any design, like intertext allusions in novels.  Another metainformation structure is the web of references in scientific papers.
 
 Different metainformation structures make some things easy and some things difficult.  For example, the structure of the web of scientific papers makes it easy for experts to quickly and concisely learn about new discoveries.  Papers are explicitly connected by *citations*, which invoke the results of a previous paper.  If the reader needs a refresher, or simply hasn't seen the referred paper, she can look up the cited paper to bring herself up to speed.  Papers which are cited often are considered more important, since they _demonstrably_ reach conclusions which further papers elaborate on.  Furthermore, once a scientist has seen many papers, she will be able to know a large amount about a paper without even reading it, just by seeing which papers it cites.
 
