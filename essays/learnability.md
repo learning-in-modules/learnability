@@ -1,7 +1,32 @@
 Learnability and the Dynamic Textbook
 =====================================
 
-The way information is organized has a tremendous impact on the way it is interpreted. The context of how you discover a document may determine your reaction even more than the document itself. Going along with that, different ways of organizing documents produce different reactions, and make different things easy and hard. For example, the web makes it easy to hop between different web pages, but it makes it hard to create long-form writing, encouraging a more serial style.  The novel does the opposite, enabling long, uninterrupted passages.  Scientific papers make a web of verifiability while allowing experts to remain abreast of the latest developments, at the cost of making it extremely difficult to learn directly from reading scientific papers.
+ * Think about:
+   * Browsing the internet
+     * Wikipedia
+     * BuzzFeed
+   * Reading through YA series books
+   * Reading scientific papers
+ * These are collections of similar documents
+ * They all have links connecting individual works into **networks of information**
+ * How are these links implemented?
+
+ ------------------------------------------------------
+ | Wikipedia         | Clickable link with page title |
+ ------------------------------------------------------
+ | BuzzFeed          | Clickbait Link                 |
+ ------------------------------------------------------
+ | YA series         | Teaser Chapter from next book  |
+ ------------------------------------------------------
+ | Scientific Papers | Citations listing authors      |
+ ------------------------------------------------------
+
+ * What do different linking techniques do?
+   * Influence your expectations for a new work
+   * Encourage linear or nonlinear reading
+
+
+The way information is organized has a tremendous impact on the way it is interpreted. The context of how you discover a document may determine your reaction even more than the document itself. Going along with that, different ways of organizing documents produce different reactions, and make different things easy and hard. For example, the web |makes it easy to hop between different web pages, but it makes it hard to create long-form writing, encouraging a more serial style.  The novel does the opposite, enabling long, uninterrupted passages.  Scientific papers make a web of verifiability while allowing experts to remain abreast of the latest developments, at the cost of making it extremely difficult to learn directly from reading scientific papers.
 
 So here's a rough outline of my talk.  First, I'm going to talk about the _metainformation structure_ of a system of documents.  Metainformation is information about how a document relates to other documents. I'm going to discuss how different metainformation structures make different things easy or hard.  Then, I'm going to describe what qualities a metainformation structure optimizing for learnability has.  Finally, I'm going to propose a metainformation structure that offers authors more resources to write learnably by connecting their work with other similiarly-written documents.
 
