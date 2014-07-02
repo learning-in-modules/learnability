@@ -13,11 +13,8 @@ Learnability and the Dynamic Textbook
 
  
  | Wikipedia         | Clickable link with page title |
-   -----------------   ------------------------------ 
  | BuzzFeed          | Clickbait Link                 |
-   -----------------   ------------------------------ 
  | YA series         | Teaser Chapter from next book  |
-   -----------------   ------------------------------ 
  | Scientific Papers | Citations listing authors      |
  
 
