@@ -11,15 +11,15 @@ Learnability and the Dynamic Textbook
  * They all have links connecting individual works into **networks of information**
  * How are these links implemented?
 
- ------------------------------------------------------
+ 
  | Wikipedia         | Clickable link with page title |
- ------------------------------------------------------
+ - ----------------- - ------------------------------ -
  | BuzzFeed          | Clickbait Link                 |
- ------------------------------------------------------
+ - ----------------- - ------------------------------ -
  | YA series         | Teaser Chapter from next book  |
- ------------------------------------------------------
+ - ----------------- - ------------------------------ -
  | Scientific Papers | Citations listing authors      |
- ------------------------------------------------------
+ 
 
  * What do different linking techniques do?
    * Influence your expectations for a new work
